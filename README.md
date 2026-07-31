@@ -138,17 +138,17 @@ Java Backend Developer | Full Stack Developer | Problem Solver
 <p>
 
 📧 Email :
-your-email@example.com
+bhaveshchaudhari8767@gmail.com
 
 <br><br>
 
 💼 LinkedIn :
-https://linkedin.com/in/your-linkedin
+https://www.linkedin.com/in/bhavesh-chaudhari-10737b31b/
 
 <br><br>
 
 🌐 Portfolio :
-https://your-portfolio.com
+
 
 </p>
 
