@@ -93,7 +93,7 @@ Java Backend Developer | Full Stack Developer | Problem Solver
 
 <tr>
 <td>Real-Time Chat Application</td>
-<td> Spring Boot | WebSocket | STOMP | SockJS | JavaScript</td>
+<td> Java, Spring Boot, Spring WebSocket, STOMP, SockJS, Thymeleaf, JavaScript (ES6), HTML5, CSS3, Bootstrap, Maven</td>
 </tr>
 
 <tr>
@@ -105,6 +105,11 @@ Java Backend Developer | Full Stack Developer | Problem Solver
 <td>🤖 AI Based Skin Analysis</td>
 <td>MERN Stack, Gemini API</td>
 </tr>
+<tr>
+<td>Listing And Booking WebApp</td>
+<td>MERN Stack</td>
+</tr>
+
 
 </table>
 
