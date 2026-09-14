@@ -88,7 +88,12 @@ Java Backend Developer | Full Stack Developer | Problem Solver
 
 <tr>
 <td>🏨 Hotel Booking Application</td>
-<td>Node.js, Express.js, MongoDB, EJS</td>
+<td> Java, Spring Boot, MySQL, Hibernate, ReactJS, Spring Security, Postman.</td>
+</tr>
+
+<tr>
+<td>Real-Time Chat Application</td>
+<td> Spring Boot | WebSocket | STOMP | SockJS | JavaScript</td>
 </tr>
 
 <tr>
